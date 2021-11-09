@@ -1,2 +1,2 @@
-# sonic-web
+# sonic-initializr
 Sonic configuration editor.
